@@ -1,6 +1,7 @@
 # Dead By Daylight
 
-## Project by team Doctor You-Know-Who
+
+<img width="1116" alt="dbd" src="https://user-images.githubusercontent.com/71231079/141134632-a8531fc7-8dbd-4288-a0f0-c0675d5d366f.png">
 
 ## Installation
 Download the zip file which consists of the `dbd.py`. This will allow you to run the CLI. The database should be setup on your sql system.
@@ -35,9 +36,6 @@ The username and password will be asked during the execution of the CLI too and 
 <img width="516" alt="login" src="https://user-images.githubusercontent.com/71231079/141134253-56784f81-dd36-49f6-8def-b0a20b6fc88c.png">
 
 ## CLI
-
-<img width="1193" alt="main" src="https://user-images.githubusercontent.com/71231079/141134281-7a3a7561-f4ba-4e2b-9e95-353cb4df07f7.png">
-
 
 We have a built a very user-friendly CLI, asking the user for Username and Password to help login to their sql database. The user is given a menu listing all the options available to them. The user can enter their choice, thus executing the corresponding functions. A success command will be printed on the CLI on successful completion of the command.
 
