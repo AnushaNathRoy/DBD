@@ -21,6 +21,7 @@ To change the port and connect it to your sql database, check this line at line 
 
 modified code:
 
+
 ```python
         con = pymysql.connect(host='localhost',
                               port= <YOUR_PORT>,
@@ -33,6 +34,7 @@ modified code:
 ```
 The username and password will be asked during the execution of the CLI too and access will be granted accordingly to ensure security.
 <br>
+<img width="1193" alt="main" src="https://user-images.githubusercontent.com/71231079/141135031-052ccace-2589-425b-8197-1f82ab6b0b82.png">
 <img width="516" alt="login" src="https://user-images.githubusercontent.com/71231079/141134253-56784f81-dd36-49f6-8def-b0a20b6fc88c.png">
 
 ## CLI
