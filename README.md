@@ -31,8 +31,14 @@ modified code:
 
 ```
 The username and password will be asked during the execution of the CLI too and access will be granted accordingly to ensure security.
+<img width="1193" alt="main" src="https://user-images.githubusercontent.com/71231079/141134206-80658e47-d9fb-4edc-a559-05071396d9e8.png">
+<img width="516" alt="login" src="https://user-images.githubusercontent.com/71231079/141134253-56784f81-dd36-49f6-8def-b0a20b6fc88c.png">
 
 ## CLI
+
+<img width="1193" alt="main" src="https://user-images.githubusercontent.com/71231079/141134281-7a3a7561-f4ba-4e2b-9e95-353cb4df07f7.png">
+
+
 We have a built a very user-friendly CLI, asking the user for Username and Password to help login to their sql database. The user is given a menu listing all the options available to them. The user can enter their choice, thus executing the corresponding functions. A success command will be printed on the CLI on successful completion of the command.
 
 The user will then be continuously taken back to the menu until they decide to logout using the '0' option. 
@@ -40,8 +46,12 @@ The user will then be continuously taken back to the menu until they decide to l
 The CLI is designed, incorporating various designs for the titles (DBD and Menu) as well as colors, reinforcing the choice that has been made. Errors re highlighted in red while success messages are highlighted in Green.
 
 Furthermore, we have implemented a cool acronym for the database, with a benzene like symbol, characterising the essence of our CLI. We have implemented a shell-like user interface in our CLI for the ease of the user. 
+<img width="669" alt="cli2" src="https://user-images.githubusercontent.com/71231079/141134319-be08f443-02f4-4a1d-853c-6d8b1a633a18.png">
+
+
 
 ## Menu Options 
+<img width="884" alt="cli1" src="https://user-images.githubusercontent.com/71231079/141134339-e49b1c20-e018-4c50-8386-4ae40242f724.png">
 
 ### Insert a character
 With this option we are inserting either a new killer or survivor. The data is added into the character table alongside with the killer or survivor table depending on the role given.
