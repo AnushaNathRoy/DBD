@@ -33,7 +33,9 @@ modified code:
 
 ```
 The username and password will be asked during the execution of the CLI too and access will be granted accordingly to ensure security.
-<br>
+
+##
+
 <img width="1193" alt="main" src="https://user-images.githubusercontent.com/71231079/141135031-052ccace-2589-425b-8197-1f82ab6b0b82.png">
 <img width="516" alt="login" src="https://user-images.githubusercontent.com/71231079/141134253-56784f81-dd36-49f6-8def-b0a20b6fc88c.png">
 
@@ -46,7 +48,9 @@ The user will then be continuously taken back to the menu until they decide to l
 The CLI is designed, incorporating various designs for the titles (DBD and Menu) as well as colors, reinforcing the choice that has been made. Errors re highlighted in red while success messages are highlighted in Green.
 
 Furthermore, we have implemented a cool acronym for the database, with a benzene like symbol, characterising the essence of our CLI. We have implemented a shell-like user interface in our CLI for the ease of the user. 
-<br>
+
+##
+
 <img width="669" alt="cli2" src="https://user-images.githubusercontent.com/71231079/141134319-be08f443-02f4-4a1d-853c-6d8b1a633a18.png">
 
 
